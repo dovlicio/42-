@@ -1,0 +1,1 @@
+ls -p -A -t --ignore='.*' --ignore='..' --format=commas
